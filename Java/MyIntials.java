@@ -1,6 +1,7 @@
+package Java;
 public class MyIntials {
   public static void main(String args[]) {
-    int i, j, k;
+    int i;
     for (i=1;i<=7;i++) {
         if(i==1) {
           System.out.println("M   M  BBBB   L    ");
